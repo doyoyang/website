@@ -1,0 +1,197 @@
+[
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "3502d5abe15b331b874a334078055eb6"
+    },
+    {
+        "path": "/assets/css/photoswipe.css",
+        "type": "file",
+        "md5": "ffb247881cd6f611d007fd4a96b7b16a"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "923737db015e684d44bc12e0259325d4"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/photoswipe-ui-default.min.js",
+        "type": "file",
+        "md5": "d067f0883540b1ddda0e2c9ad1b14260"
+    },
+    {
+        "path": "/assets/js/photoswipe.min.js",
+        "type": "file",
+        "md5": "017385b552f7e0d979e2e2fe6f324015"
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "1b8786ecde2dd3fc7cdda65ceed2a018"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "8b3e67b51e8c7a7d51b33f4a94ae4287"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "3cdd0089852edfa06d07e71a3168cf51"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/gallery-icons-dark.svg",
+        "type": "file",
+        "md5": "452594838e74a3df91ad4a20cf53c831"
+    },
+    {
+        "path": "/assets/svg/gallery-icons-light.svg",
+        "type": "file",
+        "md5": "ca77079e0fe8270a7447d7f1f5d543b0"
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "46ae674f52dd538010bc9f54fca35a75"
+    },
+    {
+        "path": "autores",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "autores/ronald-bolanos",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/autores/ronald-bolanos/index.html",
+        "type": "file",
+        "md5": "ff54baee7c0c866a057e6592003a7cd5"
+    },
+    {
+        "path": "bienvenidos",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/bienvenidos/index.html",
+        "type": "file",
+        "md5": "ca03731f6285d7c7e863afbd5a275cc6"
+    },
+    {
+        "path": "busqueda.html",
+        "type": "file",
+        "md5": "eb2ba22ee46eb98defb3a41d874d0694"
+    },
+    {
+        "path": "error.html",
+        "type": "file",
+        "md5": "a3e444b3f70d654bcc36189cd354efd4"
+    },
+    {
+        "path": "etiquetas",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/etiquetas/index.html",
+        "type": "file",
+        "md5": "2b858eb4788159ac4d720e6f733ef007"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "2c28cf0bc6aaef0bad5597f56d02c129"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "bb5a8a6ffc7429711e73c63974460999"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "2d10f883edb1487abdf666f331b3ff20"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/website",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/28947065_639721516371424_7476329969325257682_o.jpg",
+        "type": "file",
+        "md5": "ef1aa82cafc652bfcfbd3d4f5a90e4fd"
+    },
+    {
+        "path": "/media/website/favicon.ico",
+        "type": "file",
+        "md5": "ad6c6cb0132dc8178693558bbac98067"
+    },
+    {
+        "path": "media/website/responsive",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/website/responsive/28947065_639721516371424_7476329969325257682_o-sm.jpg",
+        "type": "file",
+        "md5": "40d06f7587c349f720f7d8664ea2194c"
+    },
+    {
+        "path": "/media/website/responsive/28947065_639721516371424_7476329969325257682_o-xs.jpg",
+        "type": "file",
+        "md5": "c7a6159db833826cc27043eb7a99f91e"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "dab5a0b31ed90187f5f261f394edc5a0"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "e05fad005d13dd9c8879f3070d860a8c"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    }
+]
