@@ -5,7 +5,55 @@
 <loc>https://doyoyang.com/</loc>
 </url>
 <url>
+<loc>https://doyoyang.com/acerca/</loc>
+<lastmod>2021-08-29T01:34:21-07:00</lastmod>
+<image:image>
+<image:loc>https://doyoyang.com/media\posts\4/Acerca.png</image:loc>
+<image:title><![CDATA[El valor del Taekwondo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://doyoyang.com/media\posts\4/Adulam1.png</image:loc>
+<image:title><![CDATA[Adulam]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://doyoyang.com/media\posts\4/Adulam2.png</image:loc>
+<image:title><![CDATA[Adulam 2]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://doyoyang.com/bienvenidos/</loc>
-<lastmod>2021-08-27T23:22:57-07:00</lastmod>
+<lastmod>2021-08-29T01:30:56-07:00</lastmod>
+<image:image>
+<image:loc>https://doyoyang.com/media\posts\1/Bienvenidos.png</image:loc>
+<image:title><![CDATA[Bienvenidos]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://doyoyang.com/contacto/</loc>
+<lastmod>2021-08-29T01:39:19-07:00</lastmod>
+<image:image>
+<image:loc>https://doyoyang.com/media\posts\5/Nosotros.png</image:loc>
+<image:title><![CDATA[Contacto]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://doyoyang.com/horarios/</loc>
+<lastmod>2021-08-29T01:19:37-07:00</lastmod>
+<image:image>
+<image:loc>https://doyoyang.com/media\posts\3/Horarios.png</image:loc>
+<image:title><![CDATA[Horarios]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://doyoyang.com/programas/</loc>
+<lastmod>2021-08-29T01:20:10-07:00</lastmod>
+<image:image>
+<image:loc>https://doyoyang.com/media\posts\2/ProgramasDoyo-2.png</image:loc>
+<image:title><![CDATA[Programas Taekwondo]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://doyoyang.com/media\posts\2/ProgramasRecreacion.png</image:loc>
+<image:title><![CDATA[Programas Recreacion]]></image:title>
+</image:image>
 </url>
 </urlset>
